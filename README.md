@@ -146,7 +146,7 @@ Os CRUDS estão em: "Banco de dados prova/AppoloRotas.sql
 
 ---
 
-## Consultas
+## Relatórios
 
 ### Consulta 1: - Informa o nome o CPF e a data de nascimento dos Clientes em ordem alfabética.
 
