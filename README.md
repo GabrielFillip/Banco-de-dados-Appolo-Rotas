@@ -2,7 +2,7 @@
 
 Um projeto de banco de dados feito no SQLSERVER com intuito de uma avaliação de primeiro semestre da faculdade.
 
-# Instruções
+## Instruções
 
 Trabalho Final - Modelagem de Banco de Dados
 
@@ -29,7 +29,7 @@ README bem estruturado contendo textos e prints demonstrando domínio nos 7 iten
 Separe as seções do README usando os títulos: Cenário, Modelagem Conceitual, Modelagem Lógica, Dados, CRUD e Relatórios.
 
 
-# Cenario
+## Cenario
 
 Desenvolva um banco de dados de uma empresa de viagens o sistema precisa possuir, clientes, funcionários, hospedagem, voos e pacotes. Os clientes podem comprar pacotes voos e hospedagens e os funcionários criam e organizam hotel voos e pacotes.
 - Os clientes podem se cadastrar no site e comprar passagens, estadia, etc... Cada cliente deve possuir nome, CPF, endereço, número de telefone e e-mail.
